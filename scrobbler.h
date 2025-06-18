@@ -26,7 +26,7 @@
 
 #define SCROBBLER_API_KEY "4b4f73bda181868353f9b438604adf52"
 #define SCROBBLER_SHARED_SECRET "716cc0a784bb62835de5bd674e65eb57"
-#define SCROBBLER_URL "https://ws.audioscrobbler.com/2.0/"
+#define SCROBBLER_URL "https://libre.fm/2.0/"
 
 extern const PluginPreferences configuration;
 
